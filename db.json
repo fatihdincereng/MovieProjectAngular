@@ -1,0 +1,61 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "Shazam",
+      "description": "Shazam is Good",
+      "imageUrl": "1.jpeg",
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "title": "Amazing Grace",
+      "description": "Amazing Grace is Good",
+      "imageUrl": "2.jpeg",
+      "categoryId": 2
+    },
+    {
+      "id": 3,
+      "title": "HIGH LIFE",
+      "description": "HIGH LIFE is Good ",
+      "imageUrl": "3.jpeg",
+      "categoryId": 3
+    },
+    {
+      "id": 4,
+      "title": "Billboard",
+      "description": "Billboard is Good ",
+      "imageUrl": "4.jpeg",
+      "categoryId": 3
+    },
+    {
+      "id": 5,
+      "title": "Storm Boy",
+      "description": "Storm Boy is Good ",
+      "imageUrl": "5.jpeg",
+      "categoryId": 4
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Macera"
+    },
+    {
+      "id": 2,
+      "name": "Romantik"
+    },
+    {
+      "id": 3,
+      "name": "Komedi"
+    },
+    {
+      "id": 4,
+      "name": "Dram"
+    },
+    {
+      "id": 5,
+      "name": "Savaş"
+    }
+  ]
+}
